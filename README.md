@@ -64,7 +64,8 @@ Usage of setup.cfg is not recommended unless for very simple use cases. .cfg fil
 
 ### Writing RestAPI tests using yaml 
 we use Tavern API
- See and read Tavern<!'https://tavern.readthedocs.io/en/latest/'>
+ - See and read about [Tavern](https://tavern.readthedocs.io/en/latest/)
+ - 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
 
 ### Plugins in Pytest
 To use the html plugin, we first install pytest-html plugin using pip
